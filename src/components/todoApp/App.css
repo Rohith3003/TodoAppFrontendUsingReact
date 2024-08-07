@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin: 6px;
+  padding: 3px;
+}
+
+input, label {
+  margin: 9px;
+  padding: 4px;
+} 
+
+footer {
+  bottom: 0;
+  position: absolute;
+  width: 99%;
+  height: 45px;
+}
